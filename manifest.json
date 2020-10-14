@@ -1,0 +1,6 @@
+{
+    "description": "DCGAN, 64x64 (16 MB)",
+    "model": "https://storage.googleapis.com/store.alantian.net/tfjs_gan/chainer-dcgan-celebahq-64/tfjs_SmoothedGenerator_50000/model.json",
+    "modelSize": 64,
+    "modelLatentDim": 128
+  }
